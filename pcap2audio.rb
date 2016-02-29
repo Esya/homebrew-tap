@@ -11,9 +11,9 @@ class Pcap2audio < Formula
 
   desc "Helper script to extract mp3/wav from pcaps"
   homepage "https://github.com/Esya/pcap2audio"
-  url "https://github.com/Esya/pcap2audio/archive/1.0.0.tar.gz"
+  url "https://github.com/Esya/pcap2audio/archive/1.0.1.tar.gz"
   version "1.0.0"
-  sha256 "0a853c51e63d87e2487822af261de61cfb0c41c989510e5dd09ca9c1b10cdcac"
+  sha256 "ac42ac0f9a785fbed4c7ea974a9940ca9ccb14c2fdec4b0904adeff0cd8582a3"
 
 
   def install
